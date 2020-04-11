@@ -4,7 +4,7 @@
 
 > <font color="Scarlet">**注意　本教程可能会出现以下内容**</font>
 >
-> <font color="Black">胡言乱语	胡言乱语	胡言乱语</font>
+> <font color="Black">胡言乱语　胡言乱语　胡言乱语</font>
 >
 > 为了你的人身安全及时空利益，请慎重阅读此教程。
 >
@@ -14,7 +14,7 @@
 
 <font color="4183C4">xx色</font>的
 
-## <a name="目录"><font color="Black">目录</font></a>	<font color="Gray" size="5">点击章节标题即可跳转至对应章节</font>
+## <a name="目录"><font color="Black">目录</font></a>　<font color="Gray" size="5">点击章节标题即可跳转至对应章节</font>
 
 ### <a href="#第〇章" style="text-decoration:none">准备——你已经成为了计划的一部分</a>
 
@@ -26,7 +26,7 @@
 
 ### <a href="#附录" style="text-decoration:none">附录</a>
 
-## <a name="第〇章"><font color="Black">准备</font>	<font color="Gray" size="5">你已经成为了计划的一部分</font></a>
+## <a name="第〇章"><font color="Black">准备</font>　<font color="Gray" size="5">你已经成为了计划的一部分</font></a>
 
 ### 欢迎来到原石计划。
 
@@ -36,7 +36,7 @@
 
 这里可以看到，Alive使用了4条词汇来描述《原石计划》这个游戏，下面就是关于这些词汇的定义：
 
-> <a href="https://www.baidu.com" style="text-decoration:none">🌐游戏基础知识全科普</a>	<font color="White">自己动手，丰衣足食。</font>
+> <a href="https://www.baidu.com" style="text-decoration:none">🌐游戏基础知识全科普</a>　<font color="White">自己动手，丰衣足食。</font>
 
 那么……什么是“MOD”呢？
 
@@ -57,13 +57,27 @@
 
 ~~总之，没有你想不到，只有Alive支持不到。~~
 
-### 准备好了吗？	<font color="White">不你没有</font>
+### 准备好了吗？　<font color="White">不你没有</font>
 
 要制作MOD，首先要~~在Steam上购买原石计划<a href="https://store.steampowered.com/app/1017410" style="text-decoration:none">🌐Steam上的原石计划</a>，~~进入原石计划的开发分支。
 
-> Steam -> 库 -> 右击 原石计划 -> 属性 -> 测试 -> 输入 TetraProjectDevelopAlpha -> 选择 developalpha-
+> Steam -> 库 -> 右击 原石计划 -> 属性 -> 测试 -> 输入 TetraProjectDevelopAlpha -> 选择 developalpha
 >
 > <a href="http://tpdocs.alivegamestudio.com/"  style="text-decoration:none">🌐MOD文档</a>
+>
+> 操作详解：
+>
+> 启动Steam，进入库，次要键（一般为右键）单击“原石计划”（或者选择“原石计划”，单击右侧的齿轮图标（即“管理”按钮）），选择“属性…”
+>
+> <img src="原石计划MOD喵喵向教程.assets/Steam库.png" alt="Steam库"  />
+>
+> 选择“测试”标签页，输入“TetraProjectDevelopAlpha”，单击“检查代码”，**确认游戏未运行后**单击带有倒三角图标的按钮，在下拉列表中选择“developalpha - ”
+>
+> <img src="原石计划MOD喵喵向教程.assets/Steam属性.png" alt="Steam属性" style="zoom: 80%;" />
+>
+> 等待游戏更新完毕即可
+
+
 
 
 
