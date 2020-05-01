@@ -10,9 +10,13 @@
 >
 > 你可以选择从本教程的任何一章开始阅读。
 
-## 阅读指引
 
-<font color="4183C4">xx色</font>的
+
+## 阅读提示
+
+* <font color="4183C4">普蓝色</font>的文字为链接，单击即可跳转至对应部分，带🌐的为**外部链接**。
+
+
 
 ## <a name="目录"><font color="Black">目录</font></a>　<font color="Gray" size="5">点击章节标题即可跳转至对应章节</font>
 
@@ -26,9 +30,13 @@
 
 ### <a href="#附录" style="text-decoration:none">附录</a>
 
+
+
 ## <a name="第〇章"><font color="Black">准备</font>　<font color="Gray" size="5">你已经成为了计划的一部分</font></a>
 
 ### 欢迎来到原石计划。
+
+
 
 > 《原石计划》是一个战棋+卡牌+Roguelike+DBG的游戏，并且有着对创意工坊MOD的极大支持。
 >
@@ -67,15 +75,15 @@
 >
 > 操作详解：
 >
-> 启动Steam，进入库，次要键（一般为右键）单击“原石计划”（或者选择“原石计划”，单击右侧的齿轮图标（即“管理”按钮）），选择“属性…”
+> 启动Steam，进入库，次要键（一般为右键）单击“原石计划”（或者选择“原石计划”，单击右侧的齿轮图标（即“管理”）），选择“属性…”
 >
 > <img src="原石计划MOD喵喵向教程.assets/Steam库.png" alt="Steam库"  />
 >
 > 选择“测试”标签页，输入“TetraProjectDevelopAlpha”，单击“检查代码”，**确认游戏未运行后**单击带有倒三角图标的按钮，在下拉列表中选择“developalpha - ”
 >
-> <img src="原石计划MOD喵喵向教程.assets/Steam属性.png" alt="Steam属性" style="zoom: 80%;" />
+> <img src="原石计划MOD喵喵向教程.assets/Steam属性.png" alt="Steam属性"  />
 >
-> 等待游戏更新完毕即可
+> 单击“关闭”，等待游戏更新完毕即可
 
 
 
